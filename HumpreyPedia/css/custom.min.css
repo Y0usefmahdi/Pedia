@@ -474,3 +474,7 @@ input#sign33 {
     color: #fff; 
     background: #d43c3c;
 }
+
+td {
+    direction: rtl;
+}
